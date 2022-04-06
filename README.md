@@ -15,7 +15,7 @@ An application that allows users to better manage their time during the work day
 https://tmenture.github.io/Work-Planner/
 
 ## Image of Deployed Project
-[!Snapshot](https://tmenture.github.io/Work-Planner/Develop/Images/screen-shot.png)
+![Snapshot](https://tmenture.github.io/Work-Planner/Develop/Images/screen-shot.png)
 
 ## Contribution
 Made By Thomas
